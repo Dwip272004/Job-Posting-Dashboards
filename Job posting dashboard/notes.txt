@@ -1,0 +1,4 @@
+pip install gspread oauth2client pandas streamlit plotly
+
+run :
+streamlit run your_script_name.py
